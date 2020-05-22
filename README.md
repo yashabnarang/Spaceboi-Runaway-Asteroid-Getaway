@@ -1,6 +1,6 @@
 # Spaceboi Runaway: Asteroid Getaway
 
-## Play it on Android Device
+## Play
 Free to download on the Google Play Store:
 https://play.google.com/store/apps/details?id=com.yuvio100.spaceboi&hl=en_US
 
